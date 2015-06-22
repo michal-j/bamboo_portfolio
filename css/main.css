@@ -1,0 +1,45 @@
+.navigation {
+	background: #3c4447;
+	color: #fff;
+	font-family: Oswald, sans-serif;
+}
+
+.navHeader {
+	text-align: center;
+	font-size: 2.5em;
+
+}
+
+.navigation ul li a {
+	font-family: Oswald, sans-serif;
+}
+
+.navigation ul li a, .navigation ul li a:visited {
+	color: #fff;
+}
+
+.navigation ul li a:hover, .navigation ul li a:active {
+	color: #3c4447;
+	background: #fff;
+}
+
+.navBottom {
+	position: absolute;
+	bottom: 10px;
+	text-align: center;
+	width: 265px;
+}
+
+.socialIcons {
+	margin: 0 0 1em 0;
+}
+
+.socialIcons a {
+	padding: 0 0.5em;
+}
+
+.copyright {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 0.8em;
+	font-weight: 100;
+}
