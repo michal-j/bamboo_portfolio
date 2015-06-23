@@ -1,3 +1,27 @@
+body {
+	background: #fff;
+}
+
+#container {
+	background: #fff url(../img/bg.png);
+}
+
+#scroller {
+	background: #dedede;
+	border: 1px solid rgb(230, 230, 230);
+	margin: auto;
+	height: 450px;
+	width: 98%;
+	-webkit-box-shadow: 2px 2px 2px 1px rgba(128, 128, 128, 0.1);
+	-moz-box-shadow: 2px 2px 2px 1px rgba(128, 128, 128, 0.1);
+	box-shadow: 2px 2px 2px 1px rgba(128, 128, 128, 0.1);
+}
+
+#content {
+	background: #fff;
+	width: 80%;
+}
+
 .navigation {
 	background: #3c4447;
 	color: #fff;

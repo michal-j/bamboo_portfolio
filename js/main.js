@@ -9,10 +9,10 @@ document.getElementById("main-nav").innerHTML =
 "</ul>" +
 "<div class='navBottom'>" +
 	"<div class='socialIcons'>" +
-		"<a href='#'><img src='img/facebook32.png'></a>" +
-		"<a href='#'><img src='img/flickr32.png'></a>" +
-		"<a href='#'><img src='img/instagram32.png'></a>" +
-		"<a href='#'><img src='img/twitter32.png'></a>" +
+		"<a href='#'><img src='img/icons/facebook32.png'></a>" +
+		"<a href='#'><img src='img/icons/flickr32.png'></a>" +
+		"<a href='#'><img src='img/icons/instagram32.png'></a>" +
+		"<a href='#'><img src='img/icons/twitter32.png'></a>" +
 	"</div>" +
 	"<div class='copyright'>Michał Jaciubek © 2015<br/>All rights reserved</div>" +
 "</div>";
